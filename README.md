@@ -54,7 +54,6 @@ data/
     └── malignant/    # Malignant tumor images
 ```
 
-See [`data/README.md`](data/README.md) for detailed download and setup instructions.
 
 **Note**: Raw dataset files are **not included** in this repository. Users must download the dataset separately.
 
