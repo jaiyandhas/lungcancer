@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📚 References
 
 1. Selvaraju, R. R., et al. (2017). "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization." ICCV.
-2. He, K., et al. (2016). "Deep Residual Learning for Image Recognition." CVPR.
+2. He, K., et al. (2016). "Deep Residual Learning for images Recognition." CVPR.
 3. Kaggle Dataset: [IQ-OTH/NCCD Lung Cancer Dataset](https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset)
 
 ## 📧 Contact
